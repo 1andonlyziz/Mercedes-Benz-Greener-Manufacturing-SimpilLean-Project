@@ -10,7 +10,7 @@ Since the first automobile, the Benz Patent Motor Car in 1886, Mercedes-Benz has
 
 To ensure the safety and reliability of every unique car configuration before they hit the road, Daimler’s engineers have developed a robust testing system. As one of the world’s biggest manufacturers of premium cars, safety and efficiency are paramount on Daimler’s production lines. However, optimizing the speed of their testing system for many possible feature combinations is complex and time-consuming without a powerful algorithmic approach.
 
-# Following actions was performed:
+# Following actions performed:
 
 - any column(s), the variance is equal to zero, was removed
 - Checking for null and unique values for test and train sets
